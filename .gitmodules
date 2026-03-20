@@ -3,7 +3,7 @@
 	url = https://github.com/Nest-Microservices-Luis/gateway-microservice.git
 [submodule "products-ms"]
 	path = products-ms
-	url = https://github.com/Nest-Microservices-Luis/orders-ms.git
+	url = https://github.com/Nest-Microservices-Luis/products-microservice.git
 [submodule "orders-ms"]
 	path = orders-ms
 	url = https://github.com/Nest-Microservices-Luis/orders-ms.git
